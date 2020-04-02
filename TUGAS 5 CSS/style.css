@@ -1,0 +1,28 @@
+img.slider{
+  height: 40%;
+  width: 40%;
+  float: left;
+  margin-left: 120px;
+  margin-top: 10px;
+  display:block;
+}
+img.slider2{
+  height: 40%;
+  width: 40%;
+  margin-top: 10px;
+}
+header{
+  background-color: black;
+}
+a.menu{
+  color: white;
+  font-size: 20px;
+}
+footer{
+  background-color: black;
+}
+div.footer, div.footer-alamat{
+  color: white;
+  text-align: center;
+  font-size: 16px
+}
